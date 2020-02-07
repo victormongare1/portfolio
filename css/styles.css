@@ -1,0 +1,33 @@
+
+.h1{
+  text-align: center;
+  font-size: 70px;
+  font-style: italic;
+  font-family: cursive;
+}
+.intro{
+  font-size: 70px;
+  float: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 50%;
+}
+.img{
+  float: right;
+  width: 50%;
+}
+@media screen and (min-width: 480px) and (max-width: 760px){
+  .body{
+    background-color: black;
+    color: cornsilk;
+    
+  }
+  .intro{
+    float: left;
+    font-size: 30px;
+  }
+}@media screen and (min-width: 761px){
+  .body{
+    background-color: chartreuse;
+    color: black;
+  }
+}
