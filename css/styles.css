@@ -10,6 +10,13 @@
   float: right;
   width: 50%;
 }
+.back{
+  text-underline-position: below;
+  font-style: italic;
+}
+.about{
+  font-family: 'Times New Roman', Times, serif;
+}
 @media screen and (min-width: 480px) and (max-width: 760px){
   .body{
     background-color: black;
@@ -20,11 +27,18 @@
     font-size: 30px;
     font-family: cursive;
     width: 50%;
+    margin: 20px;
+    padding: 10px;
+    border: 10px;
+  
   }
 }@media screen and (min-width: 761px){
   .body{
     background-color: chartreuse;
     color: black;
+    margin: 40px;
+    padding: 30px;
+    border: 20px;
   }
   .intro{
     font-size: 70px;
