@@ -5,11 +5,6 @@
   font-style: italic;
   font-family: cursive;
 }
-.intro{
-  font-size: 70px;
-  float: left;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  width: 50%;
 }
 .img{
   float: right;
@@ -19,15 +14,22 @@
   .body{
     background-color: black;
     color: cornsilk;
-    
   }
   .intro{
     float: left;
     font-size: 30px;
+    font-family: cursive;
+    width: 50%;
   }
 }@media screen and (min-width: 761px){
   .body{
     background-color: chartreuse;
     color: black;
+  }
+  .intro{
+    font-size: 70px;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
   }
 }
