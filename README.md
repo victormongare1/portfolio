@@ -7,7 +7,7 @@
 {*go to my repository in github at portfolio landing page
  *copy the url
  *go to terminal and type git clone(url)
-  *you can also access the website at https://victormngare1.github.io/portfolio}
+  *you can also access the website at https://victormongare1.github.io/portfolio}
 ## Known Bugs
 {The website background may take long to load and it is also tiling. }
 ## Technologies Use
