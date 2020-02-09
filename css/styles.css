@@ -4,11 +4,12 @@
   font-size: 70px;
   font-style: italic;
   font-family: cursive;
+  color: antiquewhite;
 }
 }
 .img{
   float: right;
-  width: 50%;
+  width: 40%
 }
 .back{
   text-underline-position: below;
@@ -30,12 +31,12 @@
     margin: 20px;
     padding: 10px;
     border: 10px;
+    color: antiquewhite;
   
   }
 }@media screen and (min-width: 761px){
   .body{
-    background-color: chartreuse;
-    color: black;
+    background-image: url(../me.jpg);
     margin: 40px;
     padding: 30px;
     border: 20px;
@@ -45,5 +46,6 @@
     float: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 50%;
+    color: antiquewhite;
   }
 }
